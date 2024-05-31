@@ -48,6 +48,9 @@ Teminal
 Для сбора данных использовался сайт 
 https://openweathermap.org/
 
+### Программа для подключения к API и сбора данных 
+### weath.py
+
 К сожалению Limits - Hourly forecast: unavailable
 Daily forecast: unavailable
 Calls per minute: 60

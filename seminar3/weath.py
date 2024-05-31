@@ -15,7 +15,7 @@ def get_weather_data(city_name, api_key):
    
 
 # Ваш API ключ от OpenWeatherMap
-api_key = '309c9ca6fb4036e41902e90d0ad350b0'
+api_key = 'MY_KEY'
 
 # Список городов для запроса
 cities = ['Minsk', 'Moscow', 'Kyiv', 'Warsaw']
