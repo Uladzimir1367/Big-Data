@@ -1,0 +1,26 @@
+{
+    "Minsk": {
+        "temperature": 14.86,
+        "description": "облачно с прояснениями",
+        "pressure": 1013,
+        "humidity": 93
+    },
+    "Moscow": {
+        "temperature": 18.93,
+        "description": "пасмурно",
+        "pressure": 1017,
+        "humidity": 89
+    },
+    "Kyiv": {
+        "temperature": 18.18,
+        "description": "ясно",
+        "pressure": 1011,
+        "humidity": 88
+    },
+    "Warsaw": {
+        "temperature": 19.8,
+        "description": "ясно",
+        "pressure": 1008,
+        "humidity": 60
+    }
+}
