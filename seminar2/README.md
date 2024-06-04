@@ -31,11 +31,7 @@
 
 <image src="img/Чтение файла.png" alt="wind">
 
-Создали таблицу на have-server
-
-<image src="img/s2.png" alt="wind">
-
-Cоздали и заполнили таблицу ab_nyc
+Cоздали и заполнили таблицу ab_nyc на hive-server
 
 <image src="img/S1.png" alt="wind">
 
